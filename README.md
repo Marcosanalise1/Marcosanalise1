@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos! 👋
 
-### Analista de Dados | Licenciado em Química (UFRJ) & analista de Dados em formação
+### Analista de Dados | Licenciado em Química (UFRJ) 
 
 ---
 
