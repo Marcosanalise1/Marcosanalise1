@@ -16,11 +16,11 @@ Sou Profissional de Dados com formação em **Análise de Dados pela EBAC** e gr
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosanalise1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcosanalise1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcosanalise1&repo=Marcosanalise1.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tecnologias e Ferramentas
 
