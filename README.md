@@ -14,6 +14,9 @@ Sou Profissional de Dados com formação em **Análise de Dados pela EBAC** e gr
 
 ---
 
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcosanalise1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🐍 Análise, Estatística e Programação
